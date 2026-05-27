@@ -84,3 +84,6 @@ Created by **Natik** as a frontend mini project for practicing HTML and CSS conc
 
 ---
 
+## ⚠️ Note
+**This project is best viewed on a laptop/desktop screen. Full responsiveness for all devices has not been completely implemented yet, as this project focuses mainly on basic HTML and CSS concepts.
+
